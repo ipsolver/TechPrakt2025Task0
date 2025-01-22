@@ -13,10 +13,10 @@
 /dataSources.local.xml
 
 # Ignore specified directories
-/bin/
-/obj/
-/.vs/
-/.idea/
+bin/
+obj/
+.vs/
+.idea/
 
 # Ignore specific file
 temporary.txt
